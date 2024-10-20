@@ -1,0 +1,8 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{\numberline {1}Постановка задачи.}{3}{}%
+\contentsline {section}{\numberline {2}Метод спуска для отыскания минимума функции многих переменных(метод сопряженных градиентов Флетчера-Ривса).}{3}{}%
+\contentsline {section}{\numberline {3}Блок-схема программы.}{5}{}%
+\contentsline {section}{\numberline {4}Программа решения задачи на Fortran.}{6}{}%
+\contentsline {section}{\numberline {5}Тесты работы программы.}{11}{}%
+\contentsline {section}{\numberline {6}Таблицы полученных результатов.}{11}{}%
+\contentsline {section}{\numberline {7}Перечень и характеристика всех ошибок, обнаруженных при прохождении задания.}{11}{}%
